@@ -13,7 +13,7 @@ Besides, my desire for entrepreneurship and commitment to make a positive impact
 
 
 ## Tech Stack
-<p align="center"> 
+<p align="center" background-color="white"> 
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript_1.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
