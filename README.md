@@ -7,12 +7,12 @@ Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www
 ## About me
 I am a Full Stack Web Developer and Industrial Engineer with a solid background leading digital businesses and operations. Over the last four years I played key roles in building, implementing and expanding a digitalization project for The Coca-Cola Company called Wabi, where I achieved the position of Global Director of Operations. This experience allowed me to enhance my skills in project management, team leadership and strategic alliance development.
 
-My career and interest in the digital industry, combined with my passion for technology ([Henry](https://www.soyhenry.com/)), have taken me recently to become a Full Stack Web Developer. Throughout the learning process I discovered a strong enthusiasm for this field, which led me to decide to continue my professional career as a developer 🚀.
+My career and interest in the digital industry, combined with my passion for technology, have taken me recently to become a Full Stack Web Developer. Throughout the learning process I discovered a strong enthusiasm for this field, which led me to decide to continue my professional career as a developer 🚀.
 
 Besides, my desire for entrepreneurship and commitment to make a positive impact on people's lives led me to co-create [SOMOS Sin Lactosa](https://instagram.com/somossinlactosa.ar) in 2020, currently the largest digital community in Argentina for lactose intolerant people.
 
 ## My most recent project
-As a final project, I was selected by the coding bootcamp academy to participate in a four-week internship at [Thaskify](https://thaskify.com/), a digital startup that offers an all-in-one application for project management. During this internship, I collaborated within a four-person team, contributing to both front-end and back-end tasks. 
+As a final project, I was selected by the coding bootcamp academy ([Henry](https://www.soyhenry.com/)) to participate in a four-week internship at [Thaskify](https://thaskify.com/), a digital startup that offers an all-in-one application for project management. During this internship, I collaborated within a four-person team, contributing to both front-end and back-end tasks. 
 
 Among the various features and improvements developed, I completed the following:
 - Designed and build a dashboard displaying personal and team performance. The dashboard included metrics and graphs representing complete and incomplete tasks, estimated time for tasks completion, time worked, delayed and potentially delayed tasks, along with alert messages.
