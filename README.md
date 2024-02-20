@@ -7,7 +7,7 @@ Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www
 ## About me
 I am a Full Stack Web Developer and Industrial Engineer with a solid background leading digital businesses and operations. Over the last four years I played key roles in building, implementing and expanding a digitalization project for The Coca-Cola Company called Wabi, where I achieved the position of Global Director of Operations. This experience allowed me to enhance my skills in project management, team leadership and strategic alliance development.
 
-My career and interest in the digital industry, combined with my passion for technology, have taken me recently to become a Full Stack Web Developer. Throughout the learning process I discovered a strong enthusiasm for this field, which led me to decide to continue my professional career as a developer 🚀.
+My career and interest in the digital industry, combined with my passion for technology ([Henry](https://www.soyhenry.com/)), have taken me recently to become a Full Stack Web Developer. Throughout the learning process I discovered a strong enthusiasm for this field, which led me to decide to continue my professional career as a developer 🚀.
 
 Besides, my desire for entrepreneurship and commitment to make a positive impact on people's lives led me to co-create [SOMOS Sin Lactosa](https://instagram.com/somossinlactosa.ar) in 2020, currently the largest digital community in Argentina for lactose intolerant people.
 
