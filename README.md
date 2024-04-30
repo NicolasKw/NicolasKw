@@ -1,6 +1,7 @@
 # Hi, I'm Nicolás 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolaskw/)](https://www.linkedin.com/in/nicolaskw/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nicolasm.kw@gmail.com)](mailto:nicolasm.kw@gmail.com)
+[![Behance Badge](https://img.shields.io/badge/-Behance-0077ff?style=flat&logo=Behance&logoColor=white&link=https://www.behance.net/nicolask/)](https://www.behance.net/nicolaskw/)
 
 Welcome to my profile! Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/nicolaskw/)!
 
